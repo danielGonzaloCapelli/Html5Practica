@@ -1,0 +1,9 @@
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Negocio.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Datos.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Entidades.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Datos.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\bin\Debug\Entidades.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\obj\Debug\Negocio.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Negocio\obj\Debug\Negocio.pdb

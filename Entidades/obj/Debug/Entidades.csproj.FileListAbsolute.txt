@@ -1,0 +1,5 @@
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Entidades\bin\Debug\Entidades.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Entidades\obj\Debug\Entidades.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Html5Practica\Entidades\obj\Debug\Entidades.pdb
